@@ -1,0 +1,7 @@
+babel public/src/app.js --out-file=public/scripts/app.js --presets=env,react --watch
+
+C:\Users\walklewill\Desktop\Portfolio\react-projects\indecision-app>live-server public
+
+cd C:\Users\walklewill\Desktop\Portfolio\react-projects\indecision-app
+
+yarn run dev-server
